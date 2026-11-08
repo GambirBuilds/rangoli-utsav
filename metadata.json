@@ -1,0 +1,6 @@
+{
+  "name": "Rangoli Utsav",
+  "description": "A Diwali Special Rangoli Inspiration & Community Platform with interactive maker studio, curated galleries, and tutorials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
