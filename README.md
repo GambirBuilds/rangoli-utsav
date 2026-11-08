@@ -4,6 +4,7 @@
 **Rangoli Utsav** is a festive, cultural web platform dedicated to traditional and contemporary Indian Rangoli art, sacred geometry, and Diwali celebrations.
 
 ---
+<img width="1534" height="729" alt="image" src="https://github.com/user-attachments/assets/641114d3-fbaf-4cda-beba-8d451e9d7caa" />
 
 ## 🌟 Key Features
 
